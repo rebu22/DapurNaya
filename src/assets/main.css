@@ -1,0 +1,87 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-rice: #fdfcf8;
+  --color-loam: #2c2c24;
+  --color-moss: #5d7052;
+  --color-mist: #f3f4f1;
+  --color-clay: #c18c5d;
+  --color-sand: #e6dccd;
+  --color-bark: #4a4a40;
+  --color-stone: #f0ebe5;
+  --color-grass: #78786c;
+  --color-timber: #ded8cf;
+  --color-sienna: #a85448;
+  --color-cream: #fefefa;
+
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body: 'Nunito', ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-rice);
+  color: var(--color-loam);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* Serat kertas: lapisan grain di seluruh halaman */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  pointer-events: none;
+  opacity: 0.035;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-display);
+}
+
+::selection {
+  background: #c18c5d;
+  color: #fff;
+}
+
+/* Bentuk-bentuk organik khas DapurNaya */
+.blob-a { border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%; }
+.blob-b { border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%; }
+.blob-c { border-radius: 45% 55% 62% 38% / 55% 42% 58% 45%; }
+.blob-d { border-radius: 70% 30% 46% 54% / 30% 60% 40% 70%; }
+
+.card-radius-1 { border-radius: 2rem 4rem 2rem 2rem; }
+.card-radius-2 { border-radius: 4rem 2rem 3rem 2rem; }
+.card-radius-3 { border-radius: 2rem 2rem 4.5rem 2rem; }
+.card-radius-4 { border-radius: 3rem 2rem 2rem 5rem; }
+.card-radius-5 { border-radius: 2rem 5rem 2rem 3rem; }
+.card-radius-6 { border-radius: 5rem 2rem 2rem 2rem; }
+
+.shadow-soft { box-shadow: 0 4px 20px -2px rgba(93, 112, 82, 0.15); }
+.shadow-float { box-shadow: 0 10px 40px -10px rgba(193, 140, 93, 0.25); }
+.shadow-lift { box-shadow: 0 20px 40px -10px rgba(93, 112, 82, 0.18); }
+
+.lift {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+.lift:hover {
+  transform: translateY(-6px);
+}
+
+input, select, textarea {
+  font-family: var(--font-body);
+}
+
+/* Transisi halaman */
+.page-enter-active, .page-leave-active {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.page-enter-from { opacity: 0; transform: translateY(12px); }
+.page-leave-to { opacity: 0; transform: translateY(-8px); }
