@@ -1,11 +1,11 @@
 <template>
   <section class="bg-stone/30 py-24">
-    <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
+    <div class="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <p class="text-xs font-extrabold uppercase tracking-[0.22em] text-clay">Tanpa ribet</p>
-        <h2 class="font-display mt-3 text-4xl font-bold text-loam md:text-5xl">Tiga langkah sampai hidangan tersaji</h2>
+        <h2 class="font-display mt-3 text-4xl font-bold text-loam md:text-5xl">2 langkah cepat untuk makananmu!</h2>
       </div>
-      <div class="relative mt-14 grid gap-10 md:grid-cols-3 md:gap-8">
+      <div class="relative mx-auto mt-14 grid max-w-3xl gap-10 md:grid-cols-2 md:gap-8">
         <div v-for="(langkah, i) in langkahPesan" :key="langkah.judul" class="relative text-center">
           <span class="relative mx-auto flex h-20 w-20 items-center justify-center rounded-full border-2 border-timber bg-cream text-3xl text-moss shadow-soft">
             <i :class="langkah.ikon"></i>

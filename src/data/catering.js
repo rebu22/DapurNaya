@@ -221,11 +221,6 @@ export const langkahPesan = [
     deskripsi: 'Isi form atau chat WhatsApp: tanggal, jumlah tamu, dan budget. Kami balas dengan rekomendasi menu di hari yang sama.',
   },
   {
-    ikon: 'fa-solid fa-utensils',
-    judul: 'Test food & deal',
-    deskripsi: 'Cicipi 3–5 menu pilihan di dapur kami (gratis untuk paket di atas 200 pax), lalu kunci tanggal dengan DP 30%.',
-  },
-  {
     ikon: 'fa-solid fa-kitchen-set',
     judul: 'Kami yang masak',
     deskripsi: 'Tim datang H-1 untuk persiapan dan standby penuh di hari H. Kamu tinggal menyambut tamu dengan tenang.',
