@@ -12,8 +12,8 @@
           <span class="italic text-clay">tersenyum.</span>
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-bark">
-          DapurNaya memasak untuk hajatan, rapat kantor, sampai makan harian — resep
-          rumahan, bahan pasar segar setiap pagi, dan tim yang standby sampai acara selesai.
+          DapurNaya memasak untuk hajatan, rapat kantor, sampai makan harian — resep rumahan, bahan
+          pasar segar setiap pagi, dan tim yang standby sampai acara selesai.
         </p>
         <div class="mt-8 flex flex-col gap-4 sm:flex-row">
           <RouterLink
@@ -40,24 +40,9 @@
           loading="eager"
         />
         <div
-          class="card-radius-2 absolute -bottom-6 -left-4 flex items-center gap-3 border border-timber/50 bg-cream px-5 py-4 shadow-float sm:-left-8"
+          class="absolute -bottom-6 -left-4 flex h-16 w-16 items-center justify-center rounded-full border border-timber/50 bg-cream text-2xl text-moss shadow-float sm:-left-8"
         >
-          <span
-            class="flex h-12 w-12 items-center justify-center rounded-2xl bg-moss/10 text-2xl text-moss"
-          >
-            <i class="fa-solid fa-star"></i>
-          </span>
-          <span>
-            <span class="font-display block text-xl font-bold text-loam">4,9 / 5</span>
-            <span class="block text-xs font-bold text-grass">dari 1.200+ acara</span>
-          </span>
-        </div>
-        <div
-          class="blob-d absolute -right-6 -top-8 flex h-28 w-28 rotate-6 items-center justify-center bg-clay text-center shadow-float"
-        >
-          <span class="px-3 text-xs font-extrabold uppercase leading-tight text-white"
-            >Bisa<br />test food</span
-          >
+          <i class="fa-solid fa-star"></i>
         </div>
       </div>
     </div>
