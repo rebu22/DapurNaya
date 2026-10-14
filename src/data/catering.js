@@ -218,12 +218,12 @@ export const langkahPesan = [
   {
     ikon: 'fa-solid fa-comments',
     judul: 'Ceritakan acaramu',
-    deskripsi: 'Isi form atau chat WhatsApp: tanggal, jumlah tamu, dan budget. Kami balas dengan rekomendasi menu di hari yang sama.',
+    deskripsi: 'Isi form atau chat WhatsApp: tanggal, jumlah tamu, dan budget.',
   },
   {
     ikon: 'fa-solid fa-kitchen-set',
     judul: 'Kami yang masak',
-    deskripsi: 'Tim datang H-1 untuk persiapan dan standby penuh di hari H. Kamu tinggal menyambut tamu dengan tenang.',
+    deskripsi: 'Kamu tinggal menunggu masakanmu siap dan kami akan mengantarkannya atau kamu bisa mengambil makananmu sendiri!',
   },
 ]
 
