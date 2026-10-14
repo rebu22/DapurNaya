@@ -36,7 +36,7 @@
           <div>
             <p class="text-xs font-extrabold uppercase tracking-[0.22em] text-clay">Paling sering dipesan</p>
             <h2 class="font-display mt-3 max-w-xl text-4xl font-bold leading-tight text-loam md:text-5xl">
-              Paket yang tamu selalu ingat.
+              Menu-menu yang selalu dipesan.
             </h2>
           </div>
           <RouterLink to="/paket" class="font-bold text-moss hover:text-clay">

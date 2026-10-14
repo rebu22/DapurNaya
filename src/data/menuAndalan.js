@@ -20,7 +20,7 @@ export const menuAndalan = [
     nama: 'Donat Kentang',
     harga: 15000, // angka aja, tanpa titik. Contoh: 15000 = Rp 15.000
     satuan: 'box isi 6', // contoh: 'box', 'porsi', 'paket 10 porsi'
-    tag: 'Favorit anak-anak',
+    tag: '#1',
     deskripsi:
       'Donat kentang empuk, manisnya pas, topping melimpah. Cocok untuk arisan, ulang tahun, dan snack box.',
     gambar:
@@ -32,7 +32,7 @@ export const menuAndalan = [
     nama: 'Tumpeng Kuning',
     harga: 350000,
     satuan: 'paket 10 porsi',
-    tag: 'Untuk syukuran',
+    tag: '#2',
     deskripsi:
       'Tumpeng kuning gurih dengan lauk lengkap dan hiasan cantik. Siap saji untuk syukuran dan hajatan.',
     gambar:
@@ -44,7 +44,7 @@ export const menuAndalan = [
     nama: 'Bebek Rica-Rica',
     harga: 35000,
     satuan: 'porsi',
-    tag: 'Andalan Ibu',
+    tag: '#3',
     deskripsi:
       'Menu paling sering dipesan! Bebek empuk dimasak pelan, bumbu rica medok, pedasnya nagih. Resep keluarga.',
     gambar:
