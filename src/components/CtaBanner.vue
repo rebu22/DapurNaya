@@ -4,7 +4,7 @@
       <div class="blob-a absolute -left-16 -top-16 h-64 w-64 bg-clay/30 blur-3xl"></div>
       <div class="blob-b absolute -bottom-20 -right-16 h-72 w-72 bg-sand/20 blur-3xl"></div>
       <div class="relative">
-        <p class="text-xs font-extrabold uppercase tracking-[0.22em] text-sand">Konsultasi gratis, tanpa komitmen</p>
+        <p class="text-xs font-extrabold uppercase tracking-[0.22em] text-sand">Hubungi Kami!</p>
         <h2 class="font-display mx-auto mt-4 max-w-2xl text-4xl font-bold leading-tight md:text-5xl">
           {{ judul }}
         </h2>

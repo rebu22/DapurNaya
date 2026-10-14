@@ -12,8 +12,8 @@
           <span class="italic text-clay">tersenyum.</span>
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-bark">
-          DapurNaya memasak untuk hajatan, rapat kantor, sampai makan harian — resep rumahan, bahan
-          pasar segar setiap pagi, dan tim yang standby sampai acara selesai.
+          DapurNaya merupakan usaha catering milik Ibu kami yang dibuat dengan sepenuh hati untuk kalian
+          pelanggan tercinta kami.
         </p>
         <div class="mt-8 flex flex-col gap-4 sm:flex-row">
           <RouterLink
@@ -40,9 +40,9 @@
           loading="eager"
         />
         <div
-          class="absolute -bottom-6 -left-4 flex h-16 w-16 items-center justify-center rounded-full border border-timber/50 bg-cream text-2xl text-moss shadow-float sm:-left-8"
+          class="absolute -bottom-6 -left-4 flex h-16 w-16 items-center justify-center rounded-full border border-timber/50 bg-cream text-sm font-extrabold text-moss shadow-float sm:-left-8"
         >
-          <i class="fa-solid fa-star"></i>
+          10/10
         </div>
       </div>
     </div>
