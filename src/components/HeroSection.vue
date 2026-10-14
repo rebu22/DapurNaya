@@ -12,7 +12,7 @@
           <span class="italic text-clay">tersenyum.</span>
         </h1>
         <p class="mt-6 text-lg leading-relaxed text-bark">
-          DapurNaya memasak untuk pernikahan, hajatan, rapat kantor, sampai makan harian — resep
+          DapurNaya memasak untuk hajatan, rapat kantor, sampai makan harian — resep
           rumahan, bahan pasar segar setiap pagi, dan tim yang standby sampai acara selesai.
         </p>
         <div class="mt-8 flex flex-col gap-4 sm:flex-row">

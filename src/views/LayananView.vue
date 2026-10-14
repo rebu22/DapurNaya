@@ -4,7 +4,7 @@
       eyebrow="Layanan catering"
       ikon="fa-solid fa-bell-concierge"
       judul="Satu dapur untuk semua acaramu."
-      deskripsi="Enam layanan, satu standar: makanan keluar saat masih hangat, meja saji tidak pernah kosong, dan ada koordinator yang bisa kamu hubungi kapan saja."
+      deskripsi="Lima layanan, satu standar: makanan keluar saat masih hangat, meja saji tidak pernah kosong, dan ada koordinator yang bisa kamu hubungi kapan saja."
     >
       <template #blob>
         <div class="blob-c absolute -left-20 top-6 h-80 w-80 bg-sand/50 blur-3xl"></div>

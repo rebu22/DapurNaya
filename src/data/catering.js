@@ -7,13 +7,6 @@ export const rupiah = (n) => 'Rp ' + n.toLocaleString('id-ID')
 
 export const layanan = [
   {
-    ikon: 'fa-solid fa-heart',
-    judul: 'Pernikahan & Akad',
-    deskripsi:
-      'Paket prasmanan lengkap dari 200 sampai 2.000 pax. Ada food stall, dekorasi meja saji, dan tim yang siaga sampai acara selesai.',
-    poin: ['Prasmanan & stall', 'Dekorasi meja saji', 'Tim pelayan penuh'],
-  },
-  {
     ikon: 'fa-solid fa-briefcase',
     judul: 'Kantor & Rapat',
     deskripsi:

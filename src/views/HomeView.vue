@@ -9,7 +9,7 @@
           <div>
             <p class="text-xs font-extrabold uppercase tracking-[0.22em] text-clay">Layanan kami</p>
             <h2 class="font-display mt-3 max-w-xl text-4xl font-bold leading-tight text-loam md:text-5xl">
-              Dari akad sampai arisan, semua bisa.
+              Dari hajatan sampai arisan, semua bisa.
             </h2>
           </div>
           <RouterLink to="/layanan" class="font-bold text-moss hover:text-clay">

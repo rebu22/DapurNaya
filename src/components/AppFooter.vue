@@ -15,7 +15,7 @@
           </span>
         </div>
         <p class="mt-5 text-sm leading-relaxed text-mist/80">
-          Sejak 2015 memasak untuk hajatan, pernikahan, dan makan harian keluarga
+          Sejak 2015 memasak untuk hajatan, syukuran, dan makan harian keluarga
           Yogyakarta. Semua dimasak segar di dapur sendiri, tanpa pengawet.
         </p>
         <div class="mt-5 flex gap-3">
@@ -41,7 +41,7 @@
       <div>
         <h3 class="text-sm font-extrabold uppercase tracking-[0.18em] text-sand">Layanan Favorit</h3>
         <ul class="mt-5 space-y-3 text-sm font-semibold text-mist/80">
-          <li><RouterLink to="/layanan" class="transition-colors hover:text-white">Prasmanan pernikahan</RouterLink></li>
+          <li><RouterLink to="/layanan" class="transition-colors hover:text-white">Prasmanan hajatan</RouterLink></li>
           <li><RouterLink to="/paket" class="transition-colors hover:text-white">Nasi box kantor</RouterLink></li>
           <li><RouterLink to="/paket" class="transition-colors hover:text-white">Tumpeng & aqiqah</RouterLink></li>
           <li><RouterLink to="/paket" class="transition-colors hover:text-white">Rantangan harian</RouterLink></li>

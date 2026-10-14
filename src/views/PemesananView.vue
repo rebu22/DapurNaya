@@ -116,7 +116,7 @@ import PageHero from '@/components/PageHero.vue'
 import FaqAccordion from '@/components/FaqAccordion.vue'
 import { faq, paketMenu, rupiah, waLink } from '@/data/catering.js'
 
-const jenisAcara = ['Pernikahan / Akad', 'Hajatan / Syukuran', 'Kantor / Rapat', 'Ulang Tahun / Arisan', 'Aqiqah', 'Harian / Rantangan', 'Lainnya']
+const jenisAcara = ['Hajatan / Syukuran', 'Kantor / Rapat', 'Ulang Tahun / Arisan', 'Aqiqah', 'Harian / Rantangan', 'Lainnya']
 const hariIni = new Date().toISOString().split('T')[0]
 
 const form = reactive({
