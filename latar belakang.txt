@@ -1,0 +1,41 @@
+LATAR BELAKANG
+
+Usaha kuliner rumahan milik Ibu penulis, yaitu DapurNaya, telah lama memproduksi
+berbagai makanan seperti donat kentang, tumpeng kuning, dan bebek rica-rica.
+Namun hingga saat ini pemasaran yang dilakukan masih sangat terbatas, hanya
+mengandalkan promosi dari mulut ke mulut di lingkungan sekitar. Akibatnya,
+banyak orang yang belum mengetahui keberadaan usaha ini, padahal kualitas
+rasa dan variasi menunya mampu bersaing. Selain itu, calon pembeli yang
+tertarik pun sering kesulitan: mereka tidak memiliki gambaran menu, harga,
+dan cara pemesanan yang jelas, serta harus repot mencari dan menyimpan nomor
+kontak Ibu secara manual. Inilah permasalahan utama yang ingin diselesaikan
+melalui proyek ini.
+
+Tujuan dari proyek ini adalah membangun sebuah website company profile sekaligus
+media pemesanan untuk DapurNaya. Website ini diharapkan dapat membantu
+memasarkan jualan Ibu agar dikenal oleh lebih banyak orang, sekaligus
+mempermudah proses pemesanan. Calon pembeli tidak perlu lagi repot mencari
+nomor kontak, karena di dalam website sudah tersedia tombol dan formulir
+pemesanan yang terhubung langsung ke WhatsApp. Dengan demikian, informasi
+menu, harga, layanan, dan galeri dokumentasi tersaji dalam satu tempat yang
+mudah diakses kapan saja.
+
+Target pengguna website ini terbagi menjadi dua. Pengguna utama adalah
+masyarakat umum di sekitar lokasi usaha, seperti tetangga, panitia hajatan
+dan syukuran, karyawan kantor yang membutuhkan nasi box dan snack box, serta
+ibu-ibu arisan dan komunitas yang membutuhkan konsumsi acara. Pengguna kedua
+adalah Ibu sendiri sebagai pemilik usaha, yang terbantu karena tidak perlu
+lagi menjelaskan menu dan harga satu per satu secara manual kepada setiap
+calon pembeli.
+
+Pemilihan website sebagai solusi sangat relevan dengan topik desain dan
+pemrograman web yang diangkat dalam proyek ini. Website merupakan penerapan
+langsung dari teori perancangan web, seperti penyusunan struktur halaman,
+desain antarmuka yang responsif, dan pengalaman pengguna yang mudah dipahami.
+Dari sisi solusi bisnis, website berfungsi sebagai media pemasaran digital
+yang murah, buka selama 24 jam, dan jangkauannya jauh lebih luas dibandingkan
+promosi konvensional. Hal ini sejalan dengan tren digitalisasi UMKM, di mana
+usaha kecil didorong memanfaatkan teknologi internet agar naik kelas dan
+dikenal masyarakat luas. Oleh karena itu, pembangunan website DapurNaya bukan
+sekadar tugas perancangan web, melainkan solusi nyata atas persoalan
+pemasaran yang dihadapi usaha Ibu penulis.
