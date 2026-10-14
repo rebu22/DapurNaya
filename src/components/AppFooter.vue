@@ -53,8 +53,7 @@
 
     <div class="relative border-t border-white/15">
       <div class="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-4 py-6 text-xs text-mist/70 sm:flex-row sm:px-6 lg:px-8">
-        <p>© 2026 DapurNaya Catering. Dimasak dengan cinta di Yogyakarta.</p>
-        <p>PIRT 2063404011234 · Halal dalam proses sertifikasi</p>
+        <p>© 2026 DapurNaya Catering.</p>
       </div>
     </div>
   </footer>
