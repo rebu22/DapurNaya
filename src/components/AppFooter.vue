@@ -3,7 +3,7 @@
     <div class="blob-a absolute -top-24 right-10 h-72 w-72 bg-clay/20 blur-3xl"></div>
     <div class="blob-b absolute -bottom-28 left-8 h-80 w-80 bg-sand/10 blur-3xl"></div>
 
-    <div class="relative mx-auto grid max-w-7xl gap-12 px-4 py-16 sm:px-6 md:grid-cols-2 lg:grid-cols-3 lg:px-8">
+    <div class="relative mx-auto grid max-w-7xl gap-8 px-4 py-16 sm:px-6 md:grid-cols-2 lg:grid-cols-[1.5fr_0.7fr_1.1fr] lg:gap-12 lg:px-8">
       <div>
         <div class="flex items-center gap-3">
           <span class="flex h-12 w-12 items-center justify-center rounded-full bg-mist text-xl text-moss">
@@ -26,7 +26,7 @@
         </div>
       </div>
 
-      <nav aria-label="Tautan halaman">
+      <nav aria-label="Tautan halaman" class="lg:justify-self-center">
         <h3 class="text-sm font-extrabold uppercase tracking-[0.18em] text-sand">Jelajahi</h3>
         <ul class="mt-5 space-y-3 text-sm font-semibold">
           <li v-for="tautan in tautanNav" :key="tautan.path">
@@ -37,7 +37,7 @@
         </ul>
       </nav>
 
-      <div>
+      <div class="lg:justify-self-center">
         <h3 class="text-sm font-extrabold uppercase tracking-[0.18em] text-sand">Dapur Kami</h3>
         <ul class="mt-5 space-y-3 text-sm text-mist/80">
           <li><i class="fa-solid fa-location-dot mr-2 text-clay"></i>Jl. Rapak Indah Gg. Jaya Indah No.99A</li>
